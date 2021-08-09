@@ -13,7 +13,7 @@ cd /var/www
 #### Step 2:
 _After entering, you will need to specify the OS user password, as well as the password for accessing the repository_
 ```shell
-sudo git clone https://Pavlusha311245@bitbucket.org/temak2008/fullplate.git
+sudo git clone https://github.com/Denis759sd/Venori.git
 ```
 
 #### Step 3:
